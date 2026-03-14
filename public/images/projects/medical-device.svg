@@ -1,0 +1,26 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="118" y1="90" x2="1060" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111924"/>
+      <stop offset="1" stop-color="#09111A"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="white" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="36" fill="url(#grid)"/>
+  <path d="M250 452C250 404 289 366 337 366H824C872 366 910 404 910 452V548C910 596 872 634 824 634H337C289 634 250 596 250 548V452Z" fill="#0D1823" stroke="#A4D0FF" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M268 334C268 292 302 258 344 258H834C876 258 910 292 910 334V374H268V334Z" fill="#142334" stroke="white" stroke-opacity=".14"/>
+  <path d="M270 334L190 246" stroke="#A4D0FF" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M188 246C188 210 217 182 253 182H708C744 182 772 210 772 246V262H188V246Z" fill="#0F1D2B" stroke="#7CB5FF" stroke-opacity=".42"/>
+  <rect x="360" y="426" width="208" height="150" rx="20" fill="#111C26" stroke="white" stroke-opacity=".14"/>
+  <rect x="602" y="426" width="218" height="150" rx="20" fill="#0B121A" stroke="#83BBFF" stroke-opacity=".44"/>
+  <path d="M360 502H230" stroke="#A9D1FF" stroke-width="2"/>
+  <path d="M820 502H960" stroke="#A9D1FF" stroke-width="2"/>
+  <circle cx="230" cy="502" r="5" fill="#A9D1FF"/>
+  <circle cx="960" cy="502" r="5" fill="#A9D1FF"/>
+  <text x="88" y="496" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Snap-fit entry</text>
+  <text x="974" y="496" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Service access</text>
+  <text x="110" y="92" fill="#D9ECFF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="3">MEDICAL DEVICE / SNAP-FIT ASSEMBLY</text>
+</svg>

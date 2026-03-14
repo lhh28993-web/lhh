@@ -1,0 +1,30 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="116" y1="94" x2="1060" y2="672" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1920"/>
+      <stop offset="1" stop-color="#081017"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="white" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="36" fill="url(#grid)"/>
+  <path d="M274 286C274 248 305 218 343 218H862C900 218 930 248 930 286V566C930 604 900 634 862 634H343C305 634 274 604 274 566V286Z" fill="#0D1820" stroke="#9BDBFF" stroke-opacity=".54" stroke-width="2"/>
+  <path d="M432 186C432 150 460 122 496 122H708C744 122 772 150 772 186V218H432V186Z" fill="#11202A" stroke="white" stroke-opacity=".14"/>
+  <rect x="330" y="294" width="202" height="262" rx="26" fill="#111E27" stroke="white" stroke-opacity=".14"/>
+  <rect x="570" y="294" width="306" height="262" rx="26" fill="#101A23" stroke="#80D4FF" stroke-opacity=".46"/>
+  <path d="M374 338H490" stroke="#A9D1FF" stroke-opacity=".44" stroke-width="3"/>
+  <path d="M374 370H490" stroke="#A9D1FF" stroke-opacity=".44" stroke-width="3"/>
+  <path d="M374 402H490" stroke="#A9D1FF" stroke-opacity=".44" stroke-width="3"/>
+  <circle cx="724" cy="424" r="74" fill="#0B121A" stroke="#9BDBFF" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="724" cy="424" r="44" stroke="#9BDBFF" stroke-opacity=".34" stroke-width="2" stroke-dasharray="7 8"/>
+  <path d="M724 350V292" stroke="#A9D1FF" stroke-width="2"/>
+  <path d="M724 292H866" stroke="#A9D1FF" stroke-width="2"/>
+  <circle cx="866" cy="292" r="5" fill="#A9D1FF"/>
+  <path d="M534 516H178" stroke="#A9D1FF" stroke-width="2"/>
+  <circle cx="178" cy="516" r="5" fill="#A9D1FF"/>
+  <text x="880" y="298" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Air path / fan zone</text>
+  <text x="92" y="522" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Module bay + service path</text>
+  <text x="108" y="92" fill="#D9ECFF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="3">PORTABLE POWER STATION / THERMAL STRUCTURE</text>
+</svg>

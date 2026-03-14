@@ -1,0 +1,70 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="60" x2="1080" y2="700" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#142131"/>
+      <stop offset="1" stop-color="#09111A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(870 152) rotate(90) scale(260 360)">
+      <stop stop-color="#72B7FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#72B7FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="white" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="36" fill="url(#grid)"/>
+  <rect width="1200" height="760" rx="36" fill="url(#glow)"/>
+
+  <g opacity=".78">
+    <path d="M130 630H1068" stroke="#38506B" stroke-dasharray="7 8"/>
+    <path d="M130 168H1068" stroke="#38506B" stroke-dasharray="7 8"/>
+    <path d="M248 112V668" stroke="#38506B" stroke-dasharray="7 8"/>
+    <path d="M612 112V668" stroke="#38506B" stroke-dasharray="7 8"/>
+    <path d="M956 112V668" stroke="#38506B" stroke-dasharray="7 8"/>
+  </g>
+
+  <g>
+    <rect x="108" y="172" width="292" height="364" rx="34" fill="#0C1825" stroke="#93C4FF" stroke-opacity=".5" stroke-width="2"/>
+    <rect x="138" y="202" width="232" height="238" rx="24" fill="#111F2D" stroke="white" stroke-opacity=".14"/>
+    <rect x="166" y="228" width="176" height="180" rx="14" fill="#0B121A" stroke="#8CBEFF" stroke-opacity=".4"/>
+    <rect x="188" y="250" width="132" height="136" rx="10" fill="#101A24" stroke="white" stroke-opacity=".12"/>
+    <circle cx="254" cy="472" r="11" fill="#7CB5FF" fill-opacity=".85"/>
+    <path d="M370 250H448" stroke="#A9D1FF" stroke-width="2"/>
+    <path d="M370 332H494" stroke="#A9D1FF" stroke-width="2"/>
+    <circle cx="448" cy="250" r="5" fill="#A9D1FF"/>
+    <circle cx="494" cy="332" r="5" fill="#A9D1FF"/>
+    <text x="458" y="244" fill="#D7EBFF" font-size="18" font-family="Segoe UI, Arial, sans-serif">ID frame</text>
+    <text x="504" y="326" fill="#D7EBFF" font-size="18" font-family="Segoe UI, Arial, sans-serif">Inner stack</text>
+  </g>
+
+  <g>
+    <path d="M520 548L584 214H688L752 548H520Z" fill="#0C1825" stroke="#A9D1FF" stroke-opacity=".56" stroke-width="2"/>
+    <path d="M560 244H712V508H560V244Z" fill="#111F2D" stroke="white" stroke-opacity=".14"/>
+    <path d="M596 278H676V334H596V278Z" fill="#0B121A" stroke="#7CB5FF" stroke-opacity=".5"/>
+    <path d="M582 372H690V484H582V372Z" fill="#0F1822" stroke="white" stroke-opacity=".12"/>
+    <path d="M520 548L490 582" stroke="#A9D1FF" stroke-width="2"/>
+    <path d="M752 548L782 582" stroke="#A9D1FF" stroke-width="2"/>
+    <path d="M484 590H788" stroke="#A9D1FF" stroke-opacity=".66" stroke-width="2"/>
+    <path d="M764 250H884" stroke="#A9D1FF" stroke-width="2"/>
+    <path d="M738 410H864" stroke="#A9D1FF" stroke-width="2"/>
+    <circle cx="884" cy="250" r="5" fill="#A9D1FF"/>
+    <circle cx="864" cy="410" r="5" fill="#A9D1FF"/>
+    <text x="894" y="244" fill="#D7EBFF" font-size="18" font-family="Segoe UI, Arial, sans-serif">Drop frame</text>
+    <text x="874" y="404" fill="#D7EBFF" font-size="18" font-family="Segoe UI, Arial, sans-serif">Scan module</text>
+  </g>
+
+  <g>
+    <path d="M840 392C840 355 870 324 907 324H1002C1039 324 1069 355 1069 392V468C1069 498 1044 523 1014 523H895C865 523 840 498 840 468V392Z" fill="#0D1A27" stroke="#99C8FF" stroke-opacity=".55" stroke-width="2"/>
+    <path d="M842 316C842 284 868 258 900 258H1010C1042 258 1068 284 1068 316V376H842V316Z" fill="#132435" stroke="white" stroke-opacity=".16"/>
+    <path d="M884 408C884 380 907 358 935 358H975C1003 358 1026 380 1026 408V450C1026 473 1007 492 984 492H926C903 492 884 473 884 450V408Z" fill="#0B121A" stroke="#7CB5FF" stroke-opacity=".5"/>
+    <path d="M896 448C907 440 916 430 924 420" stroke="#DDEEFF" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1012 448C1001 440 992 430 984 420" stroke="#DDEEFF" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M998 244V174" stroke="#A9D1FF" stroke-width="2"/>
+    <path d="M998 174H1090" stroke="#A9D1FF" stroke-width="2"/>
+    <circle cx="1090" cy="174" r="5" fill="#A9D1FF"/>
+    <text x="945" y="154" fill="#D7EBFF" font-size="18" font-family="Segoe UI, Arial, sans-serif">Hinge / lid path</text>
+  </g>
+
+  <text x="104" y="84" fill="#D9ECFF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="3">PRODUCT SNAPSHOT / STRUCTURE VIEW</text>
+</svg>

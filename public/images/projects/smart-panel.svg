@@ -1,0 +1,29 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="100" x2="1068" y2="676" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1822"/>
+      <stop offset="1" stop-color="#09111A"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="white" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="36" fill="url(#grid)"/>
+  <rect x="286" y="184" width="544" height="344" rx="34" fill="#0C1723" stroke="#A5D2FF" stroke-opacity=".56" stroke-width="2"/>
+  <rect x="322" y="220" width="472" height="272" rx="24" fill="#111D29" stroke="white" stroke-opacity=".14"/>
+  <rect x="360" y="254" width="396" height="204" rx="18" fill="#0B121A" stroke="#7FB8FF" stroke-opacity=".48"/>
+  <rect x="340" y="246" width="512" height="288" rx="28" stroke="#7FB8FF" stroke-opacity=".28" stroke-dasharray="9 10"/>
+  <path d="M286 356H176" stroke="#A9D1FF" stroke-width="2"/>
+  <path d="M830 356H974" stroke="#A9D1FF" stroke-width="2"/>
+  <path d="M560 528V632" stroke="#A9D1FF" stroke-width="2"/>
+  <circle cx="176" cy="356" r="5" fill="#A9D1FF"/>
+  <circle cx="974" cy="356" r="5" fill="#A9D1FF"/>
+  <circle cx="560" cy="632" r="5" fill="#A9D1FF"/>
+  <text x="100" y="350" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Wall mount</text>
+  <text x="988" y="350" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Speaker / antenna</text>
+  <text x="574" y="650" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Back shell depth</text>
+  <rect x="224" y="216" width="544" height="344" rx="34" stroke="#6FAFFF" stroke-opacity=".24"/>
+  <rect x="168" y="248" width="544" height="344" rx="34" stroke="#6FAFFF" stroke-opacity=".12"/>
+  <text x="112" y="92" fill="#D9ECFF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="3">SMART PANEL / ID + STACK COORDINATION</text>
+</svg>

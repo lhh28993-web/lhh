@@ -1,0 +1,32 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#05070B"/>
+  <rect x="54" y="54" width="1092" height="522" rx="32" fill="url(#paint0_linear)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <g opacity="0.18">
+    <path d="M54 164H1146" stroke="white"/>
+    <path d="M54 274H1146" stroke="white"/>
+    <path d="M54 384H1146" stroke="white"/>
+    <path d="M54 494H1146" stroke="white"/>
+    <path d="M224 54V576" stroke="white"/>
+    <path d="M394 54V576" stroke="white"/>
+    <path d="M564 54V576" stroke="white"/>
+    <path d="M734 54V576" stroke="white"/>
+    <path d="M904 54V576" stroke="white"/>
+  </g>
+  <circle cx="986" cy="138" r="164" fill="url(#paint1_radial)"/>
+  <text x="118" y="176" fill="#D2E6FF" font-family="Arial, sans-serif" font-size="24" letter-spacing="8">PRODUCT STRUCTURE ENGINEER</text>
+  <text x="118" y="276" fill="white" font-family="Arial, sans-serif" font-size="76" font-weight="700">产品结构工程师</text>
+  <text x="118" y="366" fill="white" font-family="Arial, sans-serif" font-size="76" font-weight="700">个人官网 / 作品集</text>
+  <text x="118" y="454" fill="#98A5B7" font-family="Arial, sans-serif" font-size="34">结构设计 · 内部堆叠 · 工艺与量产 · 问题闭环</text>
+  <rect x="118" y="504" width="254" height="52" rx="26" fill="#5AA2FF" fill-opacity="0.12" stroke="#5AA2FF" stroke-opacity="0.36"/>
+  <text x="152" y="538" fill="#D2E6FF" font-family="Arial, sans-serif" font-size="24">专业、克制、工程感</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="600" y1="54" x2="600" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1522"/>
+      <stop offset="1" stop-color="#08111A"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(986 138) rotate(90) scale(164)">
+      <stop stop-color="#5AA2FF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#5AA2FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

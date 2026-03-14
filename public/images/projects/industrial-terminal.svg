@@ -1,0 +1,31 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="132" y1="88" x2="1040" y2="690" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111923"/>
+      <stop offset="1" stop-color="#0A1016"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="white" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="760" rx="36" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="36" fill="url(#grid)"/>
+  <g transform="rotate(-9 600 380)">
+    <rect x="356" y="148" width="470" height="468" rx="48" fill="#0C1824" stroke="#9BC9FF" stroke-opacity=".54" stroke-width="2"/>
+    <rect x="396" y="196" width="390" height="286" rx="28" fill="#101B25" stroke="white" stroke-opacity=".14"/>
+    <rect x="438" y="234" width="306" height="210" rx="18" fill="#0B121A" stroke="#7CB5FF" stroke-opacity=".46"/>
+    <rect x="502" y="506" width="178" height="46" rx="16" fill="#142435" stroke="#9BC9FF" stroke-opacity=".38"/>
+    <path d="M356 210L324 194V160L356 148" stroke="#9BC9FF" stroke-opacity=".46" stroke-width="2"/>
+    <path d="M826 210L858 194V160L826 148" stroke="#9BC9FF" stroke-opacity=".46" stroke-width="2"/>
+    <path d="M356 560L322 580V616L356 616" stroke="#9BC9FF" stroke-opacity=".46" stroke-width="2"/>
+    <path d="M826 560L860 580V616L826 616" stroke="#9BC9FF" stroke-opacity=".46" stroke-width="2"/>
+    <circle cx="590" cy="338" r="44" fill="#13293F" stroke="#B0D7FF" stroke-opacity=".48"/>
+    <path d="M420 238H276" stroke="#A9D1FF" stroke-width="2"/>
+    <path d="M760 506H918" stroke="#A9D1FF" stroke-width="2"/>
+    <circle cx="276" cy="238" r="5" fill="#A9D1FF"/>
+    <circle cx="918" cy="506" r="5" fill="#A9D1FF"/>
+  </g>
+  <text x="128" y="188" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Corner buffer</text>
+  <text x="938" y="534" fill="#D7EBFF" font-size="20" font-family="Segoe UI, Arial, sans-serif">Assembly support</text>
+  <text x="108" y="92" fill="#D9ECFF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="3">INDUSTRIAL TERMINAL / DROP UPGRADE</text>
+</svg>
